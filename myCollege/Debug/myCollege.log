@@ -1,0 +1,31 @@
+﻿  main.c
+C:\Users\Rafeq\source\repos\myCollege\myCollege\Sort.h(5,76): warning C4028: formal parameter 4 different from declaration
+C:\Users\Rafeq\source\repos\myCollege\myCollege\Sort.h(5,76): warning C4273: 'qsort': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_search.h(56,23): message : see previous definition of 'qsort'
+C:\Users\Rafeq\source\repos\myCollege\myCollege\main.c(12,50): warning C4047: 'function': 'size_t' differs in levels of indirection from 'Student *'
+C:\Users\Rafeq\source\repos\myCollege\myCollege\main.c(12,50): warning C4024: 'malloc': different types for formal and actual parameter 1
+C:\Users\Rafeq\source\repos\myCollege\myCollege\main.c(14,41): warning C4047: 'function': 'size_t' differs in levels of indirection from 'Prof *'
+C:\Users\Rafeq\source\repos\myCollege\myCollege\main.c(14,41): warning C4024: 'malloc': different types for formal and actual parameter 1
+C:\Users\Rafeq\source\repos\myCollege\myCollege\main.c(52,26): warning C4013: 'mergeSort' undefined; assuming extern returning int
+  Prof.c
+  sort.c
+C:\Users\Rafeq\source\repos\myCollege\myCollege\Sort.h(5,76): warning C4028: formal parameter 4 different from declaration
+C:\Users\Rafeq\source\repos\myCollege\myCollege\Sort.h(5,76): warning C4273: 'qsort': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_search.h(56,23): message : see previous definition of 'qsort'
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(11,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(12,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(14,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(20,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(20,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(29,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(35,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(41,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rafeq\source\repos\myCollege\myCollege\sort.c(42,21): warning C4018: '<': signed/unsigned mismatch
+  Student.c
+C:\Users\Rafeq\source\repos\myCollege\myCollege\Student.c(12,18): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Rafeq\source\repos\myCollege\myCollege\Student.c(18,15): warning C4013: 'printf' undefined; assuming extern returning int
+  Generating Code...
+  myCollege.vcxproj -> C:\Users\Rafeq\source\repos\myCollege\Debug\myCollege.exe
